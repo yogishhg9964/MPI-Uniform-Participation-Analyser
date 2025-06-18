@@ -1,0 +1,14 @@
+--- MPI Uniform Participation Analysis Report ---
+
+Summary:
+  - Total MPI Calls Detected: 2
+  - Matched Send/Recv Pairs:  1
+  - Unmatched Sends:          0
+  - Unmatched Receives:       0
+
+--- Matched Pairs ---
+  - Group (Comm: UNKNOWN, Tag: 0)
+    - Send: dest_rank=1 (line 0)
+    - Recv: source_rank=0 (line 0)
+
+--- End of Report ---

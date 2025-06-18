@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/MPI-polished-tool/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

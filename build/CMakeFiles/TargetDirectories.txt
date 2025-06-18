@@ -1,0 +1,3 @@
+D:/MPI-polished-tool/build/CMakeFiles/mpi-analyser.dir
+D:/MPI-polished-tool/build/CMakeFiles/edit_cache.dir
+D:/MPI-polished-tool/build/CMakeFiles/rebuild_cache.dir
